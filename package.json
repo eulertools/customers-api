@@ -20,7 +20,7 @@
     "@types/node": "^14.14.41",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
-    "aws-cdk": "^1.100.0",
+    "aws-cdk": "^1.203.0",
     "cdk-assume-role-credential-plugin": "^1.2.2",
     "eslint": "^7.25.0",
     "eslint-config-airbnb-base": "^14.2.1",
